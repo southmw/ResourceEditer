@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResourceEditer": {
+      "commandName": "Project",
+      "commandLineArgs": "--file a.csv"
+    }
+  }
+}
